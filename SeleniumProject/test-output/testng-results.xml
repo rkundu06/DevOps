@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation" duration-ms="26986" started-at="2018-11-30T14:20:28Z" finished-at="2018-11-30T14:20:55Z">
+    <groups>
+    </groups>
+    <test name="Amazon Web Login" duration-ms="26986" started-at="2018-11-30T14:20:28Z" finished-at="2018-11-30T14:20:55Z">
+      <class name="automationAmazon.AmazonLoginTestCase">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:automationAmazon.AmazonLoginTestCase@25af5db5]" name="invokeBrowser" is-config="true" duration-ms="7808" started-at="2018-11-30T14:20:28Z" finished-at="2018-11-30T14:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="ivokeBrowser()[pri:0, instance:automationAmazon.AmazonLoginTestCase@25af5db5]" name="ivokeBrowser" duration-ms="70" started-at="2018-11-30T14:20:36Z" finished-at="2018-11-30T14:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ivokeBrowser -->
+        <test-method status="PASS" signature="amazonLogin()[pri:1, instance:automationAmazon.AmazonLoginTestCase@25af5db5]" name="amazonLogin" duration-ms="11469" started-at="2018-11-30T14:20:36Z" finished-at="2018-11-30T14:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonLogin -->
+        <test-method status="PASS" signature="amazonLogout()[pri:2, instance:automationAmazon.AmazonLoginTestCase@25af5db5]" name="amazonLogout" duration-ms="6865" started-at="2018-11-30T14:20:48Z" finished-at="2018-11-30T14:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonLogout -->
+        <test-method status="PASS" signature="closeBrowse()[pri:0, instance:automationAmazon.AmazonLoginTestCase@25af5db5]" name="closeBrowse" is-config="true" duration-ms="717" started-at="2018-11-30T14:20:54Z" finished-at="2018-11-30T14:20:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowse -->
+      </class> <!-- automationAmazon.AmazonLoginTestCase -->
+    </test> <!-- Amazon Web Login -->
+  </suite> <!-- Automation -->
+</testng-results>
